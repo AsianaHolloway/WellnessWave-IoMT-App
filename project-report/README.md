@@ -18,7 +18,7 @@ The PDF provides a detailed overview of the architecture, technologies, and deve
 
 ## 📎 Report File
 
-📄 [WellnessWave_Project_Report.pdf](./WellnessWave_Project_Report.pdf)
+📄 [WellnessWave_Project_Report.pdf](file:///Users/asianaholloway/Downloads/Asiana%20Holloway%20WellnessWaveApp%20Report.pdf)
 
 ---
 
