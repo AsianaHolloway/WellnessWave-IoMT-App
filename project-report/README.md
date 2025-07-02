@@ -18,7 +18,9 @@ The PDF provides a detailed overview of the architecture, technologies, and deve
 
 ## 📎 Report File
 
-📄 [WellnessWave_Project_Report.pdf](file:///Users/asianaholloway/Downloads/Asiana%20Holloway%20WellnessWaveApp%20Report.pdf)
+You can view the full project report [here](https://drive.google.com/file/d/1VoeRz8fr7uF3bH-4cnLVsSmDylIyuI0y/view?usp=drive_link).
+
+This report details the architecture, development, and integration of the WellnessWave App — a mobile health application using Flutter, AWS, and Fitbit API to support real-time stress monitoring through wearable data.
 
 ---
 
