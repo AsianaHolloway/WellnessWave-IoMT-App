@@ -6,9 +6,9 @@ A mobile health app using wearable data and cloud integration for real-time stre
 
 ---
 
-## 📽 Demo Video
+## 🎥 Demo Video
 
-🎥 [Watch Demo here]([https://your-video-link-here.com](https://drive.google.com/file/d/1zE1TYC3qM41gIN1S6O0PYKb-0nfNWc81/view?usp=drive_link))
+📽️ [Watch Demo here](https://drive.google.com/file/d/1zE1TYC3tM4lgINi5600PYKb-0nfNMC81/view?usp=drive_link)
 
 _This video walks through the core features of the WellnessWave app, including the wearable integration, mood tracking, and backend setup._
 
