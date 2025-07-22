@@ -1,0 +1,2 @@
+"user_id","access_token","expires_in","refresh_token","time_stamp","token_type"
+"BN4WML","eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1BYSjYiLCJzdWIiOiJCTjRXTUwiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJlY2cgcnNldCByaXJuIHJveHkgcm51dCBycHJvIHJzbGUgcmNmIHJhY3QgcnJlcyBybG9jIHJ3ZWkgcmhyIHJ0ZW0iLCJleHAiOjE3NDUzMDg3MjcsImlhdCI6MTc0NTI3OTkyN30.nza4mFK5GToP46S_kpwB_K4yee_AvxCxp2slBcpUNts","28800","1f2c1e465190eea710fcfc0390938397713b9ef85d509296dde6111f9e090b43","2025-04-21 23:58:48","Bearer"
