@@ -36,7 +36,7 @@ _This video walks through the core features of the WellnessWave app, including t
 | **Dev Tools**        | Android Studio, Postman, Git, AWS Console         |
 | **Testing**          | Emulator + Real Device Testing (Android)          |
 
----
+--- 
 
 ## 🧠 App Architecture
 
@@ -47,10 +47,13 @@ _This video walks through the core features of the WellnessWave app, including t
         ⇅
    [AWS Lambda Functions]
         ⇅
-    [DynamoDB Storage]
+   [DynamoDB Storage]
+
+---
 
 Author
 
 Asiana Holloway 
 Graduate Student – Internet of Medical Things (IoMT) and Remote Patient Monitoring (RPM) 
 GitHub: [AsianaHolloway](https://github.com/AsianaHolloway)
+
