@@ -48,12 +48,12 @@ _This video walks through the core features of the WellnessWave app, including t
    [AWS Lambda Functions]
         ⇅
    [DynamoDB Storage]
-
----
-
+```
 Author
 
 Asiana Holloway 
-Graduate Student – Internet of Medical Things (IoMT) and Remote Patient Monitoring (RPM) 
+Graduate Student – AI in Healthcare  
 GitHub: [AsianaHolloway](https://github.com/AsianaHolloway)
+
+
 
